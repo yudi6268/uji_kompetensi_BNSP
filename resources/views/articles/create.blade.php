@@ -49,7 +49,7 @@
                 <div class="mb-4 p-3 border rounded bg-light">
                     <label class="form-label fw-bold">2. Media Video (Opsional)</label>
                     <div class="mb-3">
-                        <label class="form-label small text-muted">Upload Video dari Komputer (Bisa pilih lebih dari 1 file)</label>
+                        <label class="form-label small text-muted">Unggah Video dari File Anda</label>
                         <input type="file" name="videos[]" class="form-control" accept="video/mp4,video/webm" multiple>
                     </div>
                     
